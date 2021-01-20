@@ -44,7 +44,7 @@ const Config = {
         },
         announcementsAnswers: [
                 "#ping co to za ogłoszenie??",
-                "#przeczytałem ogłoszenie... wytłumaczysz mi o co chodzi??"
+                "#ping przeczytałem ogłoszenie... wytłumaczysz mi o co chodzi??"
         ],
         longInactivityAnswers: [
                 "To co.. serwer jednak nie wystartuje?",
